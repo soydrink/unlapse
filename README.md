@@ -1,16 +1,5 @@
-# challenges
+# unlapse
+Fight your urges by performing a random task. Generated with love by ChatGpt.
 
-"A new Flutter project."
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a very very small side project I created for people to fight against their urges. Whether you always return to alcohol, cigarettes or even porn, the exercises should distract you just enough to think about something else.
+I generated the prompts with chatgpt.
